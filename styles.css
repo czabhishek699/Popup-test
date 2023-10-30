@@ -43,3 +43,11 @@
     cursor: pointer;
     color: #000;
 }
+/* Rest of your CSS styles */
+
+.popup-content .popup-image {
+    width: 100px; /* Set the width of the image as per your preference */
+    height: 100px; /* Set the height of the image as per your preference */
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto; /* Center the image horizontally */
+}

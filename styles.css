@@ -47,7 +47,7 @@
 
 .popup-content .popup-image {
     width: 50px; /* Set the width of the image as per your preference */
-    height: 25px; /* Set the height of the image as per your preference */
+    height: 32px; /* Set the height of the image as per your preference */
     display: block; /* Ensure the image is displayed as a block element */
     margin: 0 auto; /* Center the image horizontally */
 }
